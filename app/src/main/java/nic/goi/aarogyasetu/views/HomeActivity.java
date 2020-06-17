@@ -97,6 +97,7 @@ public class HomeActivity extends AppCompatActivity implements SelectLanguageFra
     public static final String SYNCING_DIALOG = "syncing_dialog";
     public static final String EXTRA_ASK_PERMISSION = "need_permissions";
     public static final String DO_NOT_SHOW_BACK = "do_not_show_back";
+    public static final String FRAG_ON_CLOSING_APP_DIALOG = "frag_on_clossing_app_dialog";
 
     public static final Integer NO_NETWORK = 1000;
 
@@ -1062,6 +1063,7 @@ public class HomeActivity extends AppCompatActivity implements SelectLanguageFra
                 onHideCustomView();
                 return true;
             }
+            showDialog(new ClosingApplicationDialog(), FRAG_ON_CLOSING_APP_DIALOG);
             return false;
         }
     }

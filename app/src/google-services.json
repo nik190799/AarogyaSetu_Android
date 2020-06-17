@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579478903635",
+    "firebase_url": "https://fightcorona-a2137.firebaseio.com",
+    "project_id": "fightcorona-a2137",
+    "storage_bucket": "fightcorona-a2137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579478903635:android:9328820ee784e900aa1fa6",
+        "android_client_info": {
+          "package_name": "nic.goi.aarogyasetu.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579478903635-6v6ckt90jt5ea2trc13ds3jeh0q8u6bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nic.goi.aarogyasetu.debug",
+            "certificate_hash": "a0aae62e9e1b1c2f67f2dc08c542219023ed6f0f"
+          }
+        },
+        {
+          "client_id": "579478903635-leti51485vr1ba6r5ok317duc0cfrq75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkYsWqyIpz0wRofbx_TgW9eC77_txbf7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579478903635-leti51485vr1ba6r5ok317duc0cfrq75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

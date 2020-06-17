@@ -65,7 +65,10 @@
     <string name="internet_connection_lost" translatable="false">Internet Connection Lost</string>
     <string name="try_again" translatable="false">Try Again</string>
     <string name="turn_on_bluetooth" translatable="false">Turn on Bluetooth</string>
+    <string name="closing_activity" translatable="false">Closing Application</string>
     <string name="turn_on" translatable="false">Turn On</string>
+    <string name="close_app_yes" translatable="false">Yes</string>
+    <string name="close_app_no" translatable="false">No</string>
     <string name="message_failed_tap_to_retry" translatable="false">Failed to update. Tap to retry.</string>
     <string name="restart" translatable="false">RESTART</string>
     <string name="sync_data_user_consent">To help contact tracing, your interaction data captured with Bluetooth and Location services will be shared with Government of India.</string>
@@ -93,6 +96,7 @@
     <string name="error_network_error">Please check internet connection</string>
     <string name="error_location">Location settings are inadequate, and cannot be fixed here. Fix in Settings.</string>
     <string name="turn_on_bluetooth_all_times">Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.</string>
+    <string name="do_you_want_to_close_this_application" translatable="false">Are you sure you want to close Aarogya Setu?</string>
     <string name="make_sure_your_phone_is_connected_to_the_wifi_or_switch_to_mobile_data">Make sure your phone is connected to the WiFi or switch to mobile data.</string>
     <string name="login_failed">Login Failed. Please try again</string>
     <string name="image_user_content_description">User</string>
@@ -131,4 +135,6 @@
     <string name="hamburger_menu_intro">A lot of Features like Helpline, Privacy Policy, Terms of Use and more can be found here.</string>
     <string name="seconds" translatable="false">sec</string>
     <string name="refresh" translatable="false">Refresh</string>
+
+
 </resources>
